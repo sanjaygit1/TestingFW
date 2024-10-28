@@ -6,6 +6,7 @@ public class Sampletest {
 		
 		System.out.println("Hello");
 
+	System.out.println("Gud mrng");
 	}
 
 }

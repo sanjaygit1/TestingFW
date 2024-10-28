@@ -9,6 +9,9 @@ public class Sampletest {
 	System.out.println("Gud mrng");
 	
 	System.out.println("Welcome");
+
+		System.out.println("Bye");
+			
 	}
 
 }
